@@ -40,6 +40,7 @@ def reformat_languages(languages)
       new_hash[name][:style] = [style]
     end
   end
+  if 
   return new_hash
 end
 
